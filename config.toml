@@ -1,0 +1,19 @@
+baseURL = "http://neuraltrading.net/"
+languageCode = "en-us"
+title = "NeuralTrading.Net"
+theme = "air"
+
+
+[author]
+  name = "alessio"
+
+[params]
+  description = "Trading with Machine Learning"
+  author = "alessio"
+  authorlocation = "Italy"
+  authorwebsite = "http://github.com/blackms"
+  bio= ""
+  githubName = "blackms"
+  twitterName = "blackms"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
